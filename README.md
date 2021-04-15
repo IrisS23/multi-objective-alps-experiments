@@ -18,24 +18,16 @@ Die folgenden Fragen sollen mit den Experimenten beantwortet werden:
   (Ist der Algorithmus geeignet für Probleme mit vielen nicht verbundenen/konvexen/nicht-konvexen/etc. Pareto-Fronten?)
 
 Es werden die folgenden Paramereinstellungen getestet:
-- Populationsgröße: wird jeweils angepasst an Schichtenanzahl
-- Schichtenanzahl: 5, 10, 20
-- Alterungs-Schema: Exponentiell, Polynomisch
-- Alters-Lücke: 5, 10, 20, 50
+[TODO]
 
-Es werden verschiedene Probleme ausgewählt, die je eine spezifische schwierige Eigenschaft aufweisen sollen. 
-Beste Einstellungen der vorherigen Experimente werden verwendet für
+Es werden verschiedene Probleme ausgewählt, die je eine spezifische schwierige Eigenschaft aufweisen sollen.
 - Probleme: ZDT, DTLZ
 - Problemgröße: verschieden je nach Problem
-- Anzahl an Kriterien (Objectives): 2 bei ZDT und 3 bei DTLZ
+
 
 ## Vergleiche mit anderen Algorithmen
 ### Parameter
-- Populationsgröße: [TODO]
-- Kreuzungswahrscheinlichkeit: 90%
-- Mutationswahrscheinlichkeit: 5%
-- Selektionsoperator: [TODO]
-- Kreuzungsoperator: [TODO]
+[TODO]
 
 ALPS-Parameter: (je nachdem welche Parameter in vorherigen Experimenten die besten Hypervolumen erzielt haben)
 - Alters-Schema: [TODO] 
